@@ -1,0 +1,1 @@
+# openapi-gen-lib-go
